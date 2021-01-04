@@ -1,31 +1,46 @@
-# Foobar
+# Project Title
 
-Foobar is a Python library for dealing with word pluralization.
+## Table of Contents
 
-## Installation
+- [About](#about)
+- [Getting Started](#getting_started)
+- [Usage](#usage)
+- [Contributing](CONTRIBUTING.md)
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+## About <a name = "about"></a>
 
-``` bash
-pip install foobar
+Write about 1-2 paragraphs describing the purpose of your project.
+
+## Getting Started <a name = "getting_started"></a>
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+What things you need to install the software and how to install them.
+
+```
+Give examples
 ```
 
-## Usage
+### Installing
 
-``` python
-import foobar
+A step by step series of examples that tell you how to get a development env running.
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+Say what the step will be
+
+```
+Give the example
 ```
 
-## Contributing
+And repeat
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you **would** like to change.
+```
+until finished
+```
 
-Please make sure to update tests as appropriate.
+End with an example of getting some data out of the system or using it for a little demo.
 
-## License
+## Usage <a name = "usage"></a>
 
-[MIT](https://choosealicense.com/licenses/mit/)
+Add notes about how to use the system.
