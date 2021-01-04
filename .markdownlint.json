@@ -1,7 +1,13 @@
 {
-    "default": false,
+    "no-inline-html": {
+        "allowed_elements": [
+            "a"
+        ]
+    },
+    "line-length": false,
+    "fenced-code-language": false,
     "ul-style": {
-        "style": "sublist"
+        "style": "consistent"
     },
     "no-duplicate-heading": {
         "allow_different_nesting": true
