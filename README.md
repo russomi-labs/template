@@ -13,14 +13,20 @@ Write about 1-2 paragraphs describing the purpose of your project.
 
 ## Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+You can [create](https://cli.github.com/manual/gh_repo_create) a new repo using this template via the `gh` cli:
+
+``` bash
+# gh repo create [<name>] [flags]
+gh repo create gitops-labs/my-repo \
+    --template gitops-labs/template
+```
 
 ### Prerequisites
 
 What things you need to install the software and how to install them.
 
-```
-Give examples
+``` bash
+brew install gh
 ```
 
 ### Installing
