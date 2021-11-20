@@ -2,16 +2,16 @@
 
 ## Table of Contents
 
-- [About](#about)
-- [Getting Started](#getting_started)
+- [Overview](#overview)
+- [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](CONTRIBUTING.md)
+- [Contributing](#contributing)
 
-## About <a name = "about"></a>
+## Overview
 
 Write about 1-2 paragraphs describing the purpose of your project.
 
-## Getting Started <a name = "getting_started"></a>
+## Getting Started
 
 You can [create](https://cli.github.com/manual/gh_repo_create) a new repo using this template via the `gh` cli:
 
@@ -47,6 +47,11 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo.
 
-## Usage <a name = "usage"></a>
+## Usage
 
 Add notes about how to use the system.
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
