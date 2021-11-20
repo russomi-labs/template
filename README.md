@@ -17,8 +17,8 @@ You can [create](https://cli.github.com/manual/gh_repo_create) a new repo using 
 
 ``` bash
 # gh repo create [<name>] [flags]
-gh repo create gitops-labs/my-repo \
-    --template gitops-labs/template
+gh repo create russomi-labs/my-repo \
+    --template russomi-labs/template
 ```
 
 ### Prerequisites
